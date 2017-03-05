@@ -1,5 +1,5 @@
 # local-git-server
-This repository can create a local Git server with Docker.
+This repository can create a local Git server with Docker, which is mainly for testing Git related software.
 
 ## Usage
 
