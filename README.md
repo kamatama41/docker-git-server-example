@@ -1,11 +1,10 @@
 # docker-git-server-example
-This repository can create local Git server with Docker.
+This repository can create a local Git server with Docker.
 
 ## Usage
 
-Install Docker and then run `create_git_server.sh`
-
-So a Git server will be running locally and we can access it with SSH 2222 port.
+Install Docker and create your SSH key ([ref](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)) if you don't have them.
+And then run `create_git_server.sh` so that a Git server will be running locally and we can access it with SSH 2222 port.
 
 ```
 $ git clone ssh://git@localhost:2222/git/repos/awesome-repo.git
