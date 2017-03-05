@@ -1,0 +1,9 @@
+version: '2'
+services:
+  git-server:
+    image: "unixtastic/git-ssh-server"
+    container_name: git-server
+    ports:
+     - "2222:22"
+    volumes:
+     - ${SERVER_DIR}:/git
