@@ -27,7 +27,7 @@ Date:   Mon Mar 6 02:10:30 2017 +0900
     Add hello.txt
 
 commit b15e864ddade594953ef671d1a2d3b4a0e3e9b0d
-Author: xxxx xxxx <xxxx@gmail.com>
+Author: xxxx xxxx <xxxx@example.com>
 Date:   Mon Mar 6 02:10:30 2017 +0900
 
     my first commit
