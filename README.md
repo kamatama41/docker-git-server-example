@@ -16,9 +16,9 @@ remote: Total 6 (delta 1), reused 0 (delta 0)
 Receiving objects: 100% (6/6), done.
 Resolving deltas: 100% (1/1), done.
 Checking connectivity... done.
-$
+
 $ cd awesome-repo
-$
+
 $ git log
 commit f35d53a97488fac01267d094551df59a53e7ae07
 Author: xxxx xxxx <xxxx@example.com>
