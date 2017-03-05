@@ -1,4 +1,4 @@
-# docker-git-server-example
+# local-git-server
 This repository can create a local Git server with Docker.
 
 ## Usage
